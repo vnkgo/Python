@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8df5976f-46e7-46ad-aab7-7146b2658e62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/.idea/python-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/01_你好Python/render.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/01_你好Python/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/02_Python入门语法/05_字符串的多种定义方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/02_Python入门语法/06_Python中的运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/02_Python入门语法/07_input语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/02_Python入门语法/08_字符串格式化的方式2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/02_Python入门语法/09_对表达式进行格式化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/02_Python入门语法/10_字符串格式化练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/01_布尔类型和比较运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/02_2_成年人判断练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/02_if判断语句的基础格式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/03_2_我要买票吗练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/03_if else语句的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/04_2_猜猜心里数字练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/04_if_elif_else语句的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/05_判断语句的嵌套.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/06_判断语句实战案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/03_Python判断语句/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/01_2_while循环练习题_求1-100的和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/01_while循环的基础语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/02_while循环的基础案例-猜数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/03_while循环的嵌套应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/04_while循环的嵌套案例-九九乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/05_2_for循环练习题-数一数有几个a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/05_for循环的基础语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/06_range语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/07_变量作用域.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/08_2_for循环打印九九乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/08_for循环的嵌套使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/04_Python循环语句/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/01_函数快速体验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/02_函数定义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/03_函数基础定义练习案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/04_函数的参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/05_函数的参数练习案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/06_函数的返回值定义语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/07_None.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/08_函数的说明文档.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/09_函数的嵌套调用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/10_变量的作用域.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/11_函数综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/05_函数/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/06_函数进阶/01_函数的多返回值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/06_函数进阶/02_函数参数的多种使用形式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/06_函数进阶/03_函数作为参数传递.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/06_函数进阶/04_lambda匿名函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/06_函数进阶/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/01_list列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/02_list列表的常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/03_list列表常用操作课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/04_list列表的循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/05_tuple元组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/06_字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/07_字符串课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/08_序列和切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/09_序列切片课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/10_集合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/11_集合课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/12_字典.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/13_字典的常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/14_字典课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/15_数据容器通用功能.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/16_字符串大小比较.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/07_数据容器/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/08_文件操作/01_文件的读取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/08_文件操作/02_文件读取的课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/08_文件操作/03_文件的写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/08_文件操作/04_文件的追加写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/08_文件操作/05_文件操作的综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/09_异常_模块_包/01_演示异常的出现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/09_异常_模块_包/02_异常的捕获.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/09_异常_模块_包/03_异常的传递.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/09_异常_模块_包/04_模块的导入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/09_异常_模块_包/05_自定义模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/09_异常_模块_包/06_包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/09_异常_模块_包/07_综合案例练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/01_json数据格式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/02_pyecharts基础入门.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/03_折线图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/04_地图可视化的基本使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/05_全国疫情可视化地图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/06_省级疫情可视化地图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/07_基础柱状图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/08_基础时间线柱状图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/09_拓展知识点-列表的sort方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/10_GDP动态柱状图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/1960-2019全球GDP前8国家.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/全国疫情地图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/基础时间线柱状图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/基础柱状图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/10_可视化案例/河南省疫情地图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/my_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/my_package/my_module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/my_package/my_module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/my_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/my_utils/file_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/老师代码/my_utils/str_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-learn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_你好Python/render.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_你好Python/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/05_字符串的多种定义方式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/06_Python中的运算符.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/07_input语句.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/08_字符串格式化的方式2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/09_对表达式进行格式化.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Python入门语法/10_字符串格式化练习题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/01_布尔类型和比较运算符.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/02_2_成年人判断练习题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/02_if判断语句的基础格式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/03_2_我要买票吗练习题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/03_if else语句的使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/04_2_猜猜心里数字练习题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/04_if_elif_else语句的使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/05_判断语句的嵌套.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/06_判断语句实战案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Python判断语句/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/01_2_while循环练习题_求1-100的和.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/01_while循环的基础语法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/02_while循环的基础案例-猜数字.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/03_while循环的嵌套应用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/04_while循环的嵌套案例-九九乘法表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/05_2_for循环练习题-数一数有几个a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/05_for循环的基础语法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/06_range语句.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/07_变量作用域.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/08_2_for循环打印九九乘法表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/08_for循环的嵌套使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Python循环语句/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/01_函数快速体验.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/02_函数定义.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/03_函数基础定义练习案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/04_函数的参数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/05_函数的参数练习案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/06_函数的返回值定义语法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/07_None.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/08_函数的说明文档.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/09_函数的嵌套调用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/10_变量的作用域.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/11_函数综合案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_函数/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_函数进阶/01_函数的多返回值.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_函数进阶/02_函数参数的多种使用形式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_函数进阶/03_函数作为参数传递.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_函数进阶/04_lambda匿名函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_函数进阶/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/01_list列表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/02_list列表的常用操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/03_list列表常用操作课后练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/04_list列表的循环.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/05_tuple元组.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/06_字符串.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/07_字符串课后练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/08_序列和切片.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/09_序列切片课后练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/10_集合.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/11_集合课后练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/12_字典.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/13_字典的常用操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/14_字典课后练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/15_数据容器通用功能.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/16_字符串大小比较.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_数据容器/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_文件操作/01_文件的读取.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_文件操作/02_文件读取的课后练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_文件操作/03_文件的写入.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_文件操作/04_文件的追加写入.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_文件操作/05_文件操作的综合案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_异常_模块_包/01_演示异常的出现.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_异常_模块_包/02_异常的捕获.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_异常_模块_包/03_异常的传递.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_异常_模块_包/04_模块的导入.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_异常_模块_包/05_自定义模块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_异常_模块_包/06_包.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_异常_模块_包/07_综合案例练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/01_json数据格式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/02_pyecharts基础入门.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/03_折线图开发.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/04_地图可视化的基本使用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/05_全国疫情可视化地图开发.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/06_省级疫情可视化地图开发.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/07_基础柱状图开发.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/08_基础时间线柱状图开发.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/09_拓展知识点-列表的sort方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/10_GDP动态柱状图开发.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/1960-2019全球GDP前8国家.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/全国疫情地图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/基础时间线柱状图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/基础柱状图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_可视化案例/河南省疫情地图.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_package/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_package/my_module1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_package/my_module2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_utils/file_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_utils/str_util.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="29jP9BQP9N61jibS35rGsTI8EnQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/python-code/my",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python-learn\09_异常_模块_包" />
+      <recent name="D:\python-learn\05_数据容器" />
+      <recent name="D:\python-learn\04_Python循环语句" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python-learn" />
+      <recent name="D:\python-learn\09_异常_模块_包" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.10_GDP动态柱状图开发">
+    <configuration name="07_基础柱状图开发" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_可视化案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_可视化案例/07_基础柱状图开发.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08_基础时间线柱状图开发" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_可视化案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_可视化案例/08_基础时间线柱状图开发.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09_拓展知识点-列表的sort方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_可视化案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_可视化案例/09_拓展知识点-列表的sort方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_GDP动态柱状图开发" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_可视化案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_可视化案例/10_GDP动态柱状图开发.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_可视化案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_可视化案例/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10_GDP动态柱状图开发" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.09_拓展知识点-列表的sort方法" />
+        <item itemvalue="Python.08_基础时间线柱状图开发" />
+        <item itemvalue="Python.07_基础柱状图开发" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8df5976f-46e7-46ad-aab7-7146b2658e62" name="Changes" comment="" />
+      <created>1653623368819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653623368819</updated>
+      <workItem from="1653982147308" duration="30000" />
+      <workItem from="1653982397308" duration="112000" />
+      <workItem from="1653982524933" duration="57000" />
+      <workItem from="1654482703286" duration="12000" />
+      <workItem from="1654914593977" duration="6000" />
+      <workItem from="1655715058438" duration="10264000" />
+      <workItem from="1657179978909" duration="18416000" />
+      <workItem from="1715743248976" duration="356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
